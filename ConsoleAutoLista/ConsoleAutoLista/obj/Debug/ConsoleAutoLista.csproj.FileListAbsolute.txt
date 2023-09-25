@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\ConsoleAutoLista\ConsoleAutoLista\bin\Debug\ConsoleAutoLista.exe.config
+C:\Users\arinp\source\repos\ConsoleAutoLista\ConsoleAutoLista\bin\Debug\ConsoleAutoLista.exe
+C:\Users\arinp\source\repos\ConsoleAutoLista\ConsoleAutoLista\bin\Debug\ConsoleAutoLista.pdb
+C:\Users\arinp\source\repos\ConsoleAutoLista\ConsoleAutoLista\obj\Debug\ConsoleAutoLista.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\ConsoleAutoLista\ConsoleAutoLista\obj\Debug\ConsoleAutoLista.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\ConsoleAutoLista\ConsoleAutoLista\obj\Debug\ConsoleAutoLista.exe
+C:\Users\arinp\source\repos\ConsoleAutoLista\ConsoleAutoLista\obj\Debug\ConsoleAutoLista.pdb
